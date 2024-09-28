@@ -1,0 +1,31 @@
+/** No CSS for this example */
+/** No CSS for this example */
+.datepicker-footer {
+    width: 100%;
+    padding: 0 1.125rem 1.125rem 1.125rem;
+    display: flex;
+    box-sizing: border-box;
+    justify-content: space-between;
+}
+
+
+.mat-calendar-header {
+    display: none !important;
+  }
+  .mat-calendar-table thead tr th{
+    display: none !important;
+  }
+  .mat-calendar-body-cell-content {
+    display: flex !important;
+    justify-content: center !important;
+    /* // align-items: center !important;
+    // font-size: 1.5rem !important; */
+  }
+  
+  .mat-calendar-table-header tr {
+    display: none !important;
+  }
+  
+  .mat-calendar-body-label {
+    display: none !important;
+  }
